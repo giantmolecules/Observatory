@@ -1,5 +1,7 @@
 body{
   font-family: monospace;
   align-content: center;
-  width: 30%;
+}
+img{
+  width:75%;
 }
